@@ -1,0 +1,89 @@
+.cardcont {
+    width: 28.6585365854%;
+    height: 100%;
+    background-color: blueviolet;
+
+    background: whitesmoke;
+    box-shadow: 13px 13px 30px rgba(0, 0, 0, 0.15);
+    border-radius: 20px;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.cardimg{
+    width: 71.8085106383%;
+    height: 49.3548387097%;
+}
+
+.tittlecard{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 28px;
+
+    color: #FF0000;
+}
+
+.textcard{
+    width: 77.1276595745%;
+    text-align: center;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+
+    color: #989898;
+}
+
+.groupcard{
+    width: 77.1276595745%;
+    height: 11.4516129032%;
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.addcar{
+    width: 21.0344827586%;
+    height: 100%;
+
+    background: #FF0000;
+    border-radius: 24px 12px 47px 10px;
+
+    border: none;
+    cursor: pointer;
+}
+
+.orderbtn{
+    width: 70.3448275862%;
+    height: 84.5070422535%;
+    border: 1px solid #FF0000;
+    border-radius: 20px;
+
+    cursor: pointer;
+}
+
+.orderbtn p{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 27px;
+    /* identical to box height */
+
+
+    color: #FF0000;
+}
+
+
+.addcar img{
+    width: 54.0983606557%;
+    height: 46.4788732394%;
+    align-items: center;
+}

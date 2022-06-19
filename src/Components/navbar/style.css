@@ -1,0 +1,64 @@
+.navcont{
+    position: relative;
+    display: flex;
+    align-items: center;
+    width: 90.5%;
+    height: 114px;
+    left: 73px;
+    top: 30px;
+
+}
+
+a{
+    /* Retirar o sublinhado do hiperlink */
+    text-decoration: none;
+
+    font-family: 'Inter';
+    font-style: normal;
+
+    font-weight: 600;
+    font-size: 15px;
+    color: #FF0000;
+    margin-right: 35px;
+
+    text-transform: uppercase;
+}
+
+a:hover{
+    color: #090909;
+}
+
+.navphone{
+    margin-left: 28.3%;
+    color: #FFFFFF;
+}
+
+.logo{
+    margin-right: 102px;
+}
+
+/* Deixar esse botão responsivo */
+.shopcar{
+    display: flex;
+    align-items: center;
+
+    width: 33px;
+    height: 33px;
+
+    left: 96.49%;
+    right: 0%;
+    top: 18.42%;
+
+    background: #000000;
+    border-radius: 24px 12px 47px 10px;
+
+    border: none;
+
+    cursor: pointer;
+}
+
+.btnimgcar{
+    width: 15px;
+    height: 15px;
+    margin-left: 6px;
+}

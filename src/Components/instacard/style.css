@@ -1,0 +1,21 @@
+.cardinsta {
+    height: 100%;
+    width: 31.35%;
+}
+
+.instaimg{
+    
+    width: 100%;
+    border-radius: 10px;
+    display: flex;
+}
+
+.perfil {
+    position: absolute;
+    width: 5%;
+    height: 18%;
+    border-radius: 50%;
+    top: 90%;
+    margin-left: 1%;
+
+}
