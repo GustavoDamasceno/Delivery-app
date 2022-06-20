@@ -1,5 +1,5 @@
 # Delivery-app
-Sistema para fazer pedidos de uma hamburgueria, desenvolvido com a biblioteca ReactJS
+Sistema para fazer pedidos de uma hamburgueria, desenvolvido apenas o front-end com a biblioteca ReactJS
 
 ## Desenvolvimento
 
