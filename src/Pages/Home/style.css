@@ -248,12 +248,52 @@
     color: #FFFFFF;
 }
 
+.positionbtn{
+    position: absolute;
+    width: 30%;
+    height: 12%;
+    top: 75%;
+    left: 5%;
+    margin-top: 15px;
+    
+    background: #FFFFFF;
+    border-radius: 20px;
+    border: none;
+    cursor: pointer;
+
+
+}
+
+.positionbtn p{
+    position: absolute;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    text-align: center;
+    top: 25%;
+    left: 15%;
+
+
+    color: #FF0000;
+}
+
 .bg{
     position: absolute;
     height: 80%;
     width: 20%;
     right: -130px;
     top: -6px;
+}
+
+.bgend{
+    position: absolute;
+    height: 95%;
+    width: 34%;
+    right: 0px;
+    top: 15.5px;
+
+    
 }
 
 .findsection{

@@ -39,16 +39,21 @@ function App() {
           <img src={rec1} />
           <img className='bg' src={bg} />
           <p>Chicha Burger</p>
+          <button className='positionbtn'><p>ORDER NOW</p></button>
         </div>
         <div className='order2'>
         <img src={rec2} />
         <img className='bg' src={bg1} />
         <p>Friend Burger</p>
+        <button className='positionbtn'><p>ORDER NOW</p></button>
         </div>
         <div className='order3'>
         <img src={rec3} />
-        <img className='bg' src={bg2} />
+        <div className='bgend'>
+          <img  src={bg2} />
+        </div>
         <p>The Grill Thrill </p>
+        <button className='positionbtn'><p>ORDER NOW</p></button>
         </div>
       </div>
 
