@@ -20,4 +20,4 @@ Depois de verificar que a pasta **node_modules** foi criada execute a aplicaçã
 ```
 npm run dev
 ```
-Pronto, o projeto estará rodando no **localhost:3000**
+Pronto, o projeto estará rodando no **localhost:3000**.
